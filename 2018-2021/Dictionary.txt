@@ -1,0 +1,31 @@
+Feature Dictionary for NBA Stats from year 2018 to 2021.
+All the data is in 'per game' format.
+
+Player - Player Name
+Pos - Position in the game
+This feature contains some abbreviated data that means,
+PF - Power Forward
+SG - Shooting Guard
+C - Centre
+SF - Small Forward
+PG - Point Guard
+
+Team - Teams
+Games - Total Games Played
+Minutes Played - Minutes Played per game
+Field Goals - Field Goals per game
+3-Point Field Goals - 3-Point Field Goals per game
+3-points Field Goal Attempted - 3-points Field Goal Attempted per game
+2-points Field Goal - 2-points Field Goal per game
+2-points Field Goal Attempted - 2-points Field Goal Attempted per game
+Free Throws - Free Throws Per Game
+Free Throws Attempted - Free Throws Attempted per game
+Offensive Rebounds - Offensive Rebounds per game
+Defensive Rebounds - Defensive Rebounds per game
+Total Rebounds - Total Rebounds per game
+Assists - Assists per game 
+Steals - Steals per game
+Blocks - Blocks per game
+Turnovers - Turnovers per game
+Personal Fouls - Personal Fouls per game
+Points - Points per game
